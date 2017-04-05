@@ -9,7 +9,7 @@
 		<string>ClassInterfaceMethods</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>@property (strong, nonatomic) NSDictionary *&lt;#property#&gt;;</string>
+	<string>@property (nonatomic, strong) NSDictionary *&lt;#property#&gt;;</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>50D92843-85E0-48C3-AEBA-F0159ED17354</string>
 	<key>IDECodeSnippetLanguage</key>

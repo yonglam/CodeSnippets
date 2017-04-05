@@ -3,21 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>pNumber</string>
+	<string>pClass</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>ClassInterfaceMethods</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>@property (nonatomic, strong) NSNumber *&lt;#property#&gt;;</string>
+	<string>@property (nonatomic, assign) &lt;#type&gt; &lt;#property#&gt;;</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>A48F5BF2-4FBC-40A6-8748-95C4B4C3E830</string>
+	<string>AAA7EDCB-DD85-461B-AB8C-E610081C35E2</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>NSNumber property declaration</string>
+	<string>Class property declaration</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Property NSNumber</string>
+	<string>Property Class</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
