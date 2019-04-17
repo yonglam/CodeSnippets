@@ -7,6 +7,8 @@
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>ClassInterfaceMethods</string>
+		<string>ClassInterfaceVariables</string>
+		<string>ClassImplementation</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>@property (nonatomic, strong) &lt;#class#&gt; *&lt;#property#&gt;;</string>
